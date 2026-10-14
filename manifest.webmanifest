@@ -1,16 +1,16 @@
 {"id":"./","name":"Potato Bakery","short_name":"Potato Bakery","description":"Freshly baked favorites from Potato Bakery.","start_url":"./","scope":"./","display":"standalone","background_color":"#f7f1e7","theme_color":"#f7f1e7","orientation":"portrait",
+
 "icons": [
   {
-    "src": "icons/icon-192.png",
+    "src": "./icon-192.png",
     "sizes": "192x192",
     "type": "image/png",
     "purpose": "any"
   },
   {
-    "src": "icons/icon-512.png",
+    "src": "./icon-512.png",
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "any maskable"
   }
 ]
-
